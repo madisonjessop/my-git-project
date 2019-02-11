@@ -106,3 +106,5 @@ And you will be good to go.
 ## Rebase
 
 > `git rebase master` **While working on a branch you can bring in committed changes from another branch. This is helpful for ensuring that your feature branch can be cleanly merged with the master branch**
+
+#I'm in the readme-styling branch
