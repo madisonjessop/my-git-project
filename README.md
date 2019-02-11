@@ -10,7 +10,7 @@
 
 > `git commit -m 'Commit message here'` **Commits the file changes in staging and provides a description for the commit**
 
-> `git diff` **Analyze the differences between old files and ones that have been added to staging **
+> `git diff` **Analyze the differences between old files and ones that have been added to staging**
 
 
 ## Branching
